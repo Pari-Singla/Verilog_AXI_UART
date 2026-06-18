@@ -18,7 +18,7 @@ This is my implementation of an **8-bit UART IP core** with an AXI4-Stream inter
 
 ```
 rtl/        --> Verilog design files (uart.v, uart_tx.v, uart_rx.v)
-tb/         --> cocotb testbenches for transmitter and receiver
+tb/         --> testbenches for transmitter and receiver
 ```
 
 ---
